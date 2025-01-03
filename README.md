@@ -23,7 +23,7 @@ The **Modular Build System** plugin for Unreal Engine allows users to create dyn
 
 1. Download the plugin from Fab
    
-#。 How to play
+# How to play
 
 <img width="960" alt="6" src="https://github.com/user-attachments/assets/4928b894-0c1f-4f97-be23-6ee54b8c706f" />
 
