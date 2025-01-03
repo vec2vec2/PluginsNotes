@@ -1,6 +1,6 @@
 # TechPlugin(Modular Build System) for Mechanical Assemblies
 
-The **Modular Build System** plugin for Unreal Engine allows users to create dynamic, customizable mechanical assemblies with ease. Build fully functional vehicles, machinery, or complex mechanical systems while maintaining realistic physical behaviors. This plugin integrates seamlessly with Unreal Engine's physics and animation systems, empowering creators to prototype, test, and innovate.
+The **Modular Build System** plugin for Unreal Engine allows users to create dynamic, customizable mechanical assemblies with ease. Build fully functional vehicles, machinery, or complex mechanical systems while maintaining realistic physical behaviors. This plugin integrates seamlessly with Unreal Engine's physics systems, empowering creators to prototype, test, and innovate.
 
 ## Features
 
