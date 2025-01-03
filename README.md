@@ -23,29 +23,29 @@ The **Modular Build System** plugin for Unreal Engine allows users to create dyn
 
 1. Download the plugin from Fab
    
-## How to play
+#。 How to play
 
 <img width="960" alt="6" src="https://github.com/user-attachments/assets/4928b894-0c1f-4f97-be23-6ee54b8c706f" />
 
-## How to Creat New Block
+# How to Creat New Block
 
-# 1 Creat A Mesh for the block
+ 1 Creat A Mesh for the block
 
 <img width="960" alt="6" src="https://github.com/user-attachments/assets/e198e701-1954-4bdc-acbd-23299533b0f6" />
 
-# 2 Mesh To Collision
+2 Mesh To Collision
 
 <img width="960" alt="6" src="https://github.com/user-attachments/assets/69320e50-8217-4d0e-b52f-4725b9d70212" />
 
-# 3 Copy a new class from *BP_CubeTech* and Rename
+3 Copy a new class from *BP_CubeTech* and Rename
 
 <img width="960" alt="6" src="https://github.com/user-attachments/assets/3c09b6f5-27ae-44fd-bdb7-7c6316eebb96" />
 
-# 4 Set Your Mesh
+4 Set Your Mesh
 
 <img width="960" alt="6" src="https://github.com/user-attachments/assets/09f8a231-a56e-4318-bfc9-1dae971782cd" />
 
-# 5 Creat some PortMesh(tag:[Port]) Z-axis up
+5 Creat some PortMesh(tag:Port) Z-axis up
 
 <img width="960" alt="6" src="https://github.com/user-attachments/assets/8d8ac16d-804a-407d-b62e-bd8a516f7243" />
 
