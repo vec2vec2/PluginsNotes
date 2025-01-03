@@ -49,4 +49,4 @@ The **Modular Build System** plugin for Unreal Engine allows users to create dyn
 
 <img width="960" alt="6" src="https://github.com/user-attachments/assets/8d8ac16d-804a-407d-b62e-bd8a516f7243" />
 
-
+A new class like this is now complete.
