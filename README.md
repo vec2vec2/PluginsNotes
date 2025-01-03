@@ -2,7 +2,7 @@
 
 The **Modular Build System** plugin for Unreal Engine allows users to create dynamic, customizable mechanical assemblies with ease. Build fully functional vehicles, machinery, or complex mechanical systems while maintaining realistic physical behaviors. This plugin integrates seamlessly with Unreal Engine's physics and animation systems, empowering creators to prototype, test, and innovate.
 
-## Key Features
+## Features
 
 1. **Free Camera Tracking**  
    Move and drag modules with ease, similar to Siege, for precise placement and testing.
